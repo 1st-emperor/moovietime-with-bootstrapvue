@@ -1,5 +1,22 @@
 # moovietime-with-bootstrap-vue
 
+## Step 1: clone the repository
+```bash
+$ git clone https://github.com/1st-emperor/moovietime-with-bootstrapvue.git
+```
+
+## Step 2: install node_modules/dependencies
+```bash
+# you can use npm or yarn
+$ yarn install or npm install
+```
+
+## Step 3: after installation is finish run this command
+```bash
+# serve with hot reload at localhost:2023
+$ yarn dev or npm run dev
+```
+
 ## Build Setup
 
 ```bash
