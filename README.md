@@ -1,5 +1,12 @@
 # moovietime-with-bootstrap-vue
 
+## Information may you needed to run this repo
+```bash
+# node version 16.16.0 and npm version 8.11.0
+# check your node and npm version
+$ node -version or npm -version
+```
+
 ## Step 1: clone the repository
 ```bash
 $ git clone https://github.com/1st-emperor/moovietime-with-bootstrapvue.git
